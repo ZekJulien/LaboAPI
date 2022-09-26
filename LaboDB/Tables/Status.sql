@@ -1,0 +1,6 @@
+﻿CREATE TABLE [dbo].[Status]
+(
+	[Id] TINYINT NOT NULL IDENTITY, 
+    [Name] NVARCHAR(50) NOT NULL, 
+    CONSTRAINT [PK_Status] PRIMARY KEY ([Id]) 
+)

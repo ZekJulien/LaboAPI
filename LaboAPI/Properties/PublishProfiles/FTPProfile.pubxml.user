@@ -1,0 +1,111 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121.
+-->
+<Project>
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <EncryptedPassword>AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAEKvssYqJgk60tZC7ydVtKgAAAAACAAAAAAAQZgAAAAEAACAAAAB60psw4Ue7QJLAfypIDO7c/iANfWI05OVotZ7K0wkA5gAAAAAOgAAAAAIAACAAAABvVwaCyzFyKVWcs2GJLSagyyJQauHC+59pTK54cTTfSDAAAAB5Lu1jfuEhLYQWbnSOdRHCZfIAwAMsB+BzQE1v8N45eByYGAxs0RtssJp+KPg+UAhAAAAAF58SUoCm8TIH5vBjG8fEbD2Clod7vesGlhxSgRLE3gsaf+YzZxjlzNJ2bJpNQfVQj1/nZ2y3W3faWWCFRoLCwQ==</EncryptedPassword>
+    <_PublishTargetUrl>ftps://access935093463.webspace-data.io:990</_PublishTargetUrl>
+    <History>True|2022-09-23T18:35:17.3522027Z;</History>
+    <LastFailureDetails />
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="appsettings.Development.json">
+      <publishTime>09/05/2022 17:02:28</publishTime>
+    </File>
+    <File Include="appsettings.json">
+      <publishTime>09/11/2022 21:31:13</publishTime>
+    </File>
+    <File Include="BLL.dll">
+      <publishTime>09/23/2022 20:34:42</publishTime>
+    </File>
+    <File Include="BLL.pdb">
+      <publishTime>09/23/2022 20:34:42</publishTime>
+    </File>
+    <File Include="DAL.dll">
+      <publishTime>09/23/2022 20:34:42</publishTime>
+    </File>
+    <File Include="DAL.pdb">
+      <publishTime>09/23/2022 20:34:42</publishTime>
+    </File>
+    <File Include="LaboAPI.deps.json">
+      <publishTime>09/23/2022 20:34:45</publishTime>
+    </File>
+    <File Include="LaboAPI.dll">
+      <publishTime>09/23/2022 20:34:45</publishTime>
+    </File>
+    <File Include="LaboAPI.exe">
+      <publishTime>09/23/2022 20:34:45</publishTime>
+    </File>
+    <File Include="LaboAPI.pdb">
+      <publishTime>09/23/2022 20:34:45</publishTime>
+    </File>
+    <File Include="LaboAPI.runtimeconfig.json">
+      <publishTime>09/23/2022 20:34:43</publishTime>
+    </File>
+    <File Include="Microsoft.AspNetCore.Authentication.JwtBearer.dll">
+      <publishTime>07/14/2022 03:13:00</publishTime>
+    </File>
+    <File Include="Microsoft.IdentityModel.JsonWebTokens.dll">
+      <publishTime>03/30/2021 21:40:56</publishTime>
+    </File>
+    <File Include="Microsoft.IdentityModel.Logging.dll">
+      <publishTime>03/30/2021 21:42:38</publishTime>
+    </File>
+    <File Include="Microsoft.IdentityModel.Protocols.dll">
+      <publishTime>03/30/2021 21:46:46</publishTime>
+    </File>
+    <File Include="Microsoft.IdentityModel.Protocols.OpenIdConnect.dll">
+      <publishTime>03/30/2021 21:58:02</publishTime>
+    </File>
+    <File Include="Microsoft.IdentityModel.Tokens.dll">
+      <publishTime>03/30/2021 21:52:10</publishTime>
+    </File>
+    <File Include="Microsoft.OpenApi.dll">
+      <publishTime>08/29/2020 22:14:12</publishTime>
+    </File>
+    <File Include="Namotion.Reflection.dll">
+      <publishTime>01/27/2022 14:15:30</publishTime>
+    </File>
+    <File Include="Newtonsoft.Json.dll">
+      <publishTime>06/14/2016 01:06:14</publishTime>
+    </File>
+    <File Include="NJsonSchema.dll">
+      <publishTime>06/02/2022 17:04:18</publishTime>
+    </File>
+    <File Include="runtimes/unix/lib/netcoreapp2.1/System.Data.SqlClient.dll">
+      <publishTime>08/16/2021 21:22:22</publishTime>
+    </File>
+    <File Include="runtimes/win-arm64/native/sni.dll">
+      <publishTime>07/12/2017 13:24:24</publishTime>
+    </File>
+    <File Include="runtimes/win-x64/native/sni.dll">
+      <publishTime>07/12/2017 13:24:22</publishTime>
+    </File>
+    <File Include="runtimes/win-x86/native/sni.dll">
+      <publishTime>07/12/2017 13:24:22</publishTime>
+    </File>
+    <File Include="runtimes/win/lib/netcoreapp2.1/System.Data.SqlClient.dll">
+      <publishTime>08/16/2021 21:22:26</publishTime>
+    </File>
+    <File Include="Swashbuckle.AspNetCore.Swagger.dll">
+      <publishTime>10/16/2021 14:54:10</publishTime>
+    </File>
+    <File Include="Swashbuckle.AspNetCore.SwaggerGen.dll">
+      <publishTime>10/16/2021 14:54:36</publishTime>
+    </File>
+    <File Include="Swashbuckle.AspNetCore.SwaggerUI.dll">
+      <publishTime>10/16/2021 14:54:30</publishTime>
+    </File>
+    <File Include="System.Data.SqlClient.dll">
+      <publishTime>08/16/2021 21:14:56</publishTime>
+    </File>
+    <File Include="System.IdentityModel.Tokens.Jwt.dll">
+      <publishTime>03/30/2021 21:39:30</publishTime>
+    </File>
+    <File Include="web.config">
+      <publishTime>09/23/2022 20:34:45</publishTime>
+    </File>
+  </ItemGroup>
+</Project>

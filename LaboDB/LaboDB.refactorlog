@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Operations Version="1.0" xmlns="http://schemas.microsoft.com/sqlserver/dac/Serialization/2012/02">
+  <Operation Name="Rename Refactor" Key="8449a724-281c-4146-bdd1-ef205cb1b812" ChangeDateTime="09/05/2022 12:53:25">
+    <Property Name="ElementName" Value="[dbo].[Members].[Role]" />
+    <Property Name="ElementType" Value="SqlSimpleColumn" />
+    <Property Name="ParentElementName" Value="[dbo].[Members]" />
+    <Property Name="ParentElementType" Value="SqlTable" />
+    <Property Name="NewName" Value="RoleID" />
+  </Operation>
+  <Operation Name="Rename Refactor" Key="42c0eff6-4832-48d7-bc46-056de79fb227" ChangeDateTime="09/05/2022 13:16:05">
+    <Property Name="ElementName" Value="[dbo].[TournamentRegistration].[Id]" />
+    <Property Name="ElementType" Value="SqlSimpleColumn" />
+    <Property Name="ParentElementName" Value="[dbo].[TournamentRegistration]" />
+    <Property Name="ParentElementType" Value="SqlTable" />
+    <Property Name="NewName" Value="TournamentID" />
+  </Operation>
+  <Operation Name="Rename Refactor" Key="21ae7986-37d0-46dd-8129-bb3bc4d56744" ChangeDateTime="09/05/2022 13:20:08">
+    <Property Name="ElementName" Value="[dbo].[TournamentMatch].[NumberRound]" />
+    <Property Name="ElementType" Value="SqlSimpleColumn" />
+    <Property Name="ParentElementName" Value="[dbo].[TournamentMatch]" />
+    <Property Name="ParentElementType" Value="SqlTable" />
+    <Property Name="NewName" Value="RoundNumber" />
+  </Operation>
+  <Operation Name="Rename Refactor" Key="ddcee42c-3089-43c4-89c7-1bb900d520eb" ChangeDateTime="09/05/2022 13:28:14">
+    <Property Name="ElementName" Value="[dbo].[Tournament].[TournamentUpdateD]" />
+    <Property Name="ElementType" Value="SqlSimpleColumn" />
+    <Property Name="ParentElementName" Value="[dbo].[Tournament]" />
+    <Property Name="ParentElementType" Value="SqlTable" />
+    <Property Name="NewName" Value="TournamentUpdateDate" />
+  </Operation>
+</Operations>
