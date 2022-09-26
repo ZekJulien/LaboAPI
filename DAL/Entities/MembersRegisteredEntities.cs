@@ -8,6 +8,7 @@ namespace DAL.Entities
 {
     public class MembersRegisteredEntities
     {
+        //test
         public Guid Id { get; set; }
         public string Pseudo { get; set; } = string.Empty;
         public string Email { get; set; } = string.Empty;
